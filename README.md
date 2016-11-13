@@ -7,4 +7,5 @@
 Requirements:
 
 1) pyqrcode library https://pypi.python.org/pypi/PyQRCode
+
 2) qrtools library https://github.com/primetang/qrtools
