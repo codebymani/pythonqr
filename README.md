@@ -1,8 +1,8 @@
 # pythonqr
 
-1) Message can be encoded with Advanced Encryption Algorithm and qr is generated and saves to .png image file
+1) Generate QR of Encrypted Message and save to png.
 
-2) QR can be decoded with Advanced Encryption Algorithm and reveals original message 
+2) Scan the QR and get the actual Message
 
 Requirements:
 
